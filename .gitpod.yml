@@ -1,0 +1,10 @@
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - mechatroner.rainbow-csv@1.7.1:C5MaYD4kWM2oqBCpLXzXNA==
+    - johnpapa.winteriscoming@1.4.4:7zTVb47chosk4b2XEo16xg==
+    - magicstack.magicpython@1.1.1:Q+4h8/d9eu9kME/nNfIDlg==
+    - njpwerner.autodocstring@0.5.4:TKRAH5+nBrBnq+ysTYA86Q==
