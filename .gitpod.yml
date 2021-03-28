@@ -4,6 +4,7 @@ tasks:
 
 vscode:
   extensions:
-    - ms-python.anaconda-extension-pack@1.0.1:P3lC8+yrcPrIZG1jWW6SLg==
     - mechatroner.rainbow-csv@1.7.1:C5MaYD4kWM2oqBCpLXzXNA==
-    - oderwat.indent-rainbow@7.5.0:CpN4cZnk34gVihISgY/1Qw==
+    - johnpapa.winteriscoming@1.4.4:7zTVb47chosk4b2XEo16xg==
+    - magicstack.magicpython@1.1.1:Q+4h8/d9eu9kME/nNfIDlg==
+    - njpwerner.autodocstring@0.5.4:TKRAH5+nBrBnq+ysTYA86Q==
